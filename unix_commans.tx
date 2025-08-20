@@ -1,0 +1,5 @@
+1. ls (list) - shows the content of the current directory
+2. cd <directory name> (change directory)
+3. mkdir <directory name>- (make directory (folder))
+4. code <file_name> - creates a file and opens it
+5. clear - clears the terminal
